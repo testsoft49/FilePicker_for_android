@@ -8,4 +8,5 @@ Tanks to
 [AndroidPicker](https://github.com/gzu-liyujiang/AndroidPicker)
 
 效果图
-![](./preview.jpg)
+
+<img src="./preview.jpg" width=300/>
